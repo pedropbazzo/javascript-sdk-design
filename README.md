@@ -1225,6 +1225,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
 </table>
 
+<td align="center"><a href="https://github.com/pedropbazzo"><img src="https://avatars0.githubusercontent.com/u/32115702?s=460&u=18b6f3c1f7fb02331ad007fd21a6fdd1c2105790&v=4" width="100px;" alt="pedropbazzo"/><br /><sub><b></b></sub></a><br /><a href="#content-adamellsworth" title="Content">🖋</a></td>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
